@@ -5,7 +5,7 @@ Python is a popular programming language that is easy to read and write. It is w
 ## Theory 2: File Handling
 File handling involves working with files on a computer. In Python, you can open, read from, write to, and manipulate files using built-in functions. The open() function is used to open files, and you can specify whether you want to read, write, or append to a file.
 
-##Theory 3: Exception Handling
+## Theory 3: Exception Handling
 Exception handling is about dealing with errors or unexpected events that can happen during program execution. In Python, when an error occurs, it raises an exception. You can use the try-except block to handle exceptions. The try block contains the code that might raise an exception, and the except block is where you handle the exception.
 
 ## Theory 4: Object-Oriented Programming (OOP)
