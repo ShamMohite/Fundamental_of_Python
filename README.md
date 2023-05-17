@@ -1,5 +1,5 @@
 # Fundamental_of_Python
-## heory 1: Python
+## Theory 1: Python
 Python is a popular programming language that is easy to read and write. It is widely used for various tasks like web development, data analysis, artificial intelligence, and more. Python doesn't require compilation and has a large community of developers contributing to its growth. It is known for its simplicity and versatility.
 
 ## Theory 2: File Handling
